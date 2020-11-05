@@ -1,5 +1,5 @@
 plus = float(input("Введите сумму выручки:  "))
-minus = float(input("Введите сумму раскходов:  "))
+minus = float(input("Введите сумму расходов:  "))
 a = float(plus)
 b = float(minus)
 u = a - b
