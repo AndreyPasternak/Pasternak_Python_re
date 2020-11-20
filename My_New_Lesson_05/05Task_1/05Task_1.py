@@ -1,0 +1,8 @@
+f_obj = open("testfile1.txt", "w")
+f_obj.write(input("напишите текст (Тот кто водит самолет):  "))
+f_obj.write("\n")
+f_obj.write(input("напишите слово (называется):  "))
+f_obj.write("\n")
+f_obj.write(input("напишите слово (пилот):  "))
+f_obj.write("\n")
+f_obj.close()
